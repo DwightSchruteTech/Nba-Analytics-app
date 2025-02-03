@@ -3,24 +3,9 @@
 """
 Created on Sun Dec 15 00:23:45 2024
 
-@author: noahkhan
+@author: DwightSchruteTech
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 14 11:01:51 2024
-
-@author: noahkhan
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 14 03:49:58 2024
-
-@author: noahkhan
-"""
 
 import pandas as pd
 import streamlit as st
